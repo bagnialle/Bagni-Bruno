@@ -1,0 +1,192 @@
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+#contenitore
+{
+    margin: 0 auto;
+    padding-top: 10px;
+    background-color: white;
+    width: 70%;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+  #menu ul {
+    list-style-type: none;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    margin-right: 50px; 
+  }
+  
+  #menu li {
+    display: inline;
+    margin-right: 50px; 
+  }
+  .menu ul li:last-child {
+    margin-right: 0; 
+  }
+a
+  {
+    text-decoration: none;
+    color: black;
+  }
+  #footer {
+    background-color: rgb(211, 211, 211);
+    height: 100px;
+    padding: 25px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: auto; 
+    width: 70%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 100px;
+  }
+  
+  #divmenu {
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+    background-color: rgb(211, 211, 211);
+  }
+  
+  .logo {
+    width: 6%;
+    float: left;
+  }
+  
+.immaginehome{
+    padding: 10px;
+    width: 300px;
+    height: 350px;
+    float: right;
+    display: inline;
+    width: 30%;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    margin-right: 50px;
+  }
+#testo
+{
+    background-color: #9A9A9B;
+    width: 45%;
+    float:right;
+    display: inline;
+    margin-right: 80px;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+#foot
+{
+    text-align: center;
+    font-weight: bold;
+}
+.immagineS
+{
+    float:right;
+    margin-top: 100px;
+    margin-right: 50px;
+    width: 40%;
+    border-radius: 40px;
+}
+.provatesto
+{
+    overflow: hidden;
+    margin-top: 30px;
+    margin-left: 70px;
+    width: 45%;
+    text-align: justify;
+}
+#testosotto
+{
+    margin-left: 70px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    text-align: center;
+}
+.immagineD
+{
+    float:right;
+    margin-top: 90px;
+    margin-right: 50px;
+    width: 40%;
+    border-radius: 40px;
+}
+.imgaltair
+{
+    width: 40%;
+}
+.textE
+{
+    width: 50%;
+    float: left;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+}
+.imgaltair
+{
+    border-radius: 40px;
+    margin-top: 60px;
+}
+.imgaltair2
+{
+    border-radius: 40px;
+    margin-top: 60px;
+    width: 35%;
+    margin-left: 20px;
+}
+
+
+/*alan kay */
+.alan3img
+{
+    float: left;
+    width: 30%;
+    padding-left: 50px;
+}
+.alan2img
+{
+    float: left;
+    width: 30%;
+    padding-left: 50px;
+}
+.alan1img
+{
+    float: left;
+    width: 16.5%;
+    padding-left: 70px;
+}
+#divalan
+{
+    margin-bottom: 300px;
+}
+#testoalan
+{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+
+/*Summary*/
+#testoS
+{
+    background-color: #9A9A9B;
+    width: 45%;
+    margin: 0 auto;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
